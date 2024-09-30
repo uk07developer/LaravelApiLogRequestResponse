@@ -1,0 +1,1 @@
+The LogRequestsAndResponses middleware is included in the API middleware group to log all incoming API requests and outgoing responses. This middleware captures essential details, such as headers and bodies, facilitating monitoring and debugging of API interactions. It helps maintain an audit trail for better observability and troubleshooting.
